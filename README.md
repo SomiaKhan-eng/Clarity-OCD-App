@@ -10,6 +10,7 @@
 |---|---|
 | 📋 UX Case Study | [View Case Study](https://haze-jab-05593299.figma.site/) |
 | 📱 Interactive Prototype | [View Prototype](https://www.figma.com/proto/CttTVeV49JZSJjTM35kJJD/Prototype?content-scaling=fixed&kind=proto&node-id=2-107&page-id=0%3A1&scaling=scale-down&starting-point-node-id=2%3A39) |
+| 📃 Documentation | [View Documentation](https://drive.google.com/file/d/16-ywtvgQG2HfSOAEBJlAnWUHRvn3ZD01/view?usp=sharing) |
 
 ---
 
